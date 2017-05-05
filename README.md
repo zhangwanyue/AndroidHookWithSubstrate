@@ -22,6 +22,6 @@ void hookMethod(Class _class, Member member, MS.MethodHook hook, MS.MethodPointe
 void hookMethod(Class _class, Member member, MS.MethodAlteration alteration);
 
 准备工作：
-需要一部root过的手机。
-需要在手机上安装Cydia Substrate。
-在手机上运行Substrate,界面上点击“Link Substrate Files"，点击"Restart System(Soft)"。
++ 需要一部root过的手机。
++ 需要在手机上安装Cydia Substrate。
++ 在手机上运行Substrate,界面上点击“Link Substrate Files"，点击"Restart System(Soft)"。
